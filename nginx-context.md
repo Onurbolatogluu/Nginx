@@ -18,3 +18,4 @@ Nginx'in bağlantıları genel düzeyde nasıl ele aldığını tanımlar Worker
 **HTTP Context**
 
 Bu context, HTTP veya HTTPS bağlantılarının ve ilişkili parametrelerin nasıl ele alınacağını tanımlamak için gerekli tüm yönergeleri ve diğer context'leri içerir.
+

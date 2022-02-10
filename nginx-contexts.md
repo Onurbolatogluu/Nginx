@@ -1,6 +1,4 @@
-﻿# Welcome to StackEdit!
-
-Contexts Temelleri
+# Contexts Temelleri
 
 Context Temelleri, Nginx yapılandırma dosyası çeşitli bağlamlara (bölümlere) bölünmüştür. Her context, Nginx'in yönünü kontrol etmek için kendi yönergelerini içerir. 
 

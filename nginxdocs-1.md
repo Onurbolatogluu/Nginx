@@ -21,5 +21,3 @@ worker processes : worker processes sayısını tanımlar. Bunu mevcut CPU çeki
 error_log : Hata Günlüğü dosyasının yolu.
 
 pid : Main process işlem ID'sini saklayacak bir dosya tanımlar.
-
-```

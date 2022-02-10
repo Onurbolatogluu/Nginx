@@ -7,7 +7,7 @@ Context Temelleri, Nginx yapılandırma dosyası çeşitli bağlamlara (bölüml
 
 **Main Context**
 
-Tamamen bağlam bloklarının dışında bulunan herhangi bir Yönergenin "Main" context içerisinde yaşadığı söylenir. Main Context, tüm uygulamayı temel düzeyde etkileyen ayrıntıları yapılandırmak için kullanılır.
+Main Context, tüm uygulamayı temel düzeyde etkileyen ayrıntıları yapılandırmak için kullanılır.
 
 ![enter image description here](https://image.slidesharecdn.com/nginx2-170327073647/95/introduction-to-nginx-15-638.jpg?cb=1490600331)
 

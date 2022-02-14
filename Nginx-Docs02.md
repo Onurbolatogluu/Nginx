@@ -2,6 +2,7 @@
 
 
 ![enter image description here](https://www.ruraldock.com/images/20190303165944572.png?%20X-oss-process=image/watermark,%20type_ZmFuZ3poZW5naGVpdGk,%20shadow_10,%20text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3lwcDkxenI%20=,%20size_16,%20color_FFFFFF,%20t_70)
+
 log_format = Günlüklerin ve ilgili parametrelerin biçimini tanımlar.
 access_log = Kullanıcıların web sunucunuza yaptığı isteklerin listesi.
 

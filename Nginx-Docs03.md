@@ -16,6 +16,8 @@ Reverse proxy, aşağıdakiler gibi birçok kullanım durumu elde etmek için ki
  - İstek, URI'ye göre yönlendirilebilir.
 
 **proxy_pass**
+
+
 ![enter image description here](https://i.hizliresim.com/skny7qs.png)
 
 > proxy_pass yönergesi, isteği yönergeyle birlikte belirtilen proxy sunucusuna iletir.

@@ -24,7 +24,7 @@ Reverse proxy, aşağıdakiler gibi birçok kullanım durumu elde etmek için ki
 
 ![enter image description here](https://i.hizliresim.com/bizphhy.png)
 
-> Using multiple proxy_pass statements and redirecting by URI.
+> Birden fazla proxy_pass yönergesi kullanarak, URL e göre yönlendirme yapmak.
 
 [Reverse Proxy Docs](https://www.imperva.com/learn/performance/reverse-proxy/)
 

@@ -8,7 +8,7 @@ Server Weight, bir Load Balancer görevi gören Nginx ile upstream backend aras�
 
 ![enter image description here](https://i.hizliresim.com/9emfkrm.png)
 
-Bu yapılandırmada, her 3 istekten 2'si 10.139.0.4'e ve 1'i 10.139.0.3'e gönderilir. 10.139.0.4 IP adresi, 10.139.0.3 Ip adresine göre 2 kat fazla istek alır.
+Bu yapılandırmada, her 3 istekten 2'si 10.139.0.4'e ve 1'i 10.139.0.3'e gönderilir. 10.139.0.4 IP adresi, 10.139.0.3 IP adresine göre 2 kat fazla istek alır.
 
 **Least_conn**
 
